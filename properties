@@ -1,0 +1,4 @@
+sonar.projectKey=matialv_lab-github-actions-t02
+sonar.organization=devops-ort2026
+sonar.sources=.
+sonar.exclusions=**/*.md,**/.github/**
